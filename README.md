@@ -9,7 +9,7 @@ This repository is a personal learning initiative where I implement classic mach
 | Algorithm            | Folder              | Status       |
 |----------------------|---------------------|--------------|
 | Linear Regression     | Linear_Regression/   | ✅ Completed |
-| Logistic Regression   | Logistic_Regression/ | ⏳ Upcoming  |
+| Logistic Regression   | Logistic_Regression/ | ✅ Completed |
 | Decision Trees        | Decision_Tree/       | 🔜           |
 
 ---
